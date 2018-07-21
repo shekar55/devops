@@ -1,0 +1,2 @@
+hi this is git 
+im new to git
